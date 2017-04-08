@@ -46,8 +46,18 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
   display: block; }
 
 body {
-  font-family: sans-serif;
-  color: #2a2a2a; }
+  background-color: #7B68EE;
+  background-image: url("linii_raduzhnyy_ten_raznocvetnyy_28116_1920x1200.jpg");
+  background-size:100%,100%;
+  background-color: rgba(255,255,255,0.1);
+  background-blend-mode: lighten;
+  font-family: arial;
+  color: #ff8c1a; 
+  font-weight:bold;
+  font-style: italic;
+  text-align: right;
+  font-size:  22px;
+}
 
 a {
   color: #0388a6; }
@@ -56,3 +66,11 @@ a {
 
 #main {
   padding: 50px; }
+
+h1{
+  font-family: 'Marker Felt';
+  color: #3399FF;
+  font-size:  80px;
+  font-weight: normal;
+  text-align: right;
+  text-shadow: 2px 2px #663366;
