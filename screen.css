@@ -70,7 +70,24 @@ a {
 h1{
   font-family: 'Marker Felt';
   color: #3399FF;
-  font-size:  80px;
+  font-size:  4em;
   font-weight: normal;
   text-align: right;
   text-shadow: 2px 2px #663366;
+}
+
+  .project img {
+    border: 3px solid purple;
+  }
+
+  .project h2 {
+    font-size: 1em;
+  }
+
+  .project img {
+    width: 200px;
+    height: 200px;
+  }
+
+
+
